@@ -1,0 +1,5 @@
+module Click_Opto_Encoder_config
+
+include Click_Opto_Encoder_types
+
+end.

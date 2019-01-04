@@ -1,0 +1,5 @@
+unit Click_Opto_Encoder_config;
+
+uses Click_Opto_Encoder_types;
+
+end.
